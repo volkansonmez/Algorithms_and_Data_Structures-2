@@ -13,7 +13,7 @@ Merge Sort- n*logn, Quick Sort- n *logn, Bubble Sort- npow(2)
 Taking DFT, FFT, IFFT, and Convolution of Signals
 
 ### Network Flow Problems, Bipartite Matching:
-Maximizing the network flow, bipartiteness testing, bipartite matching, visualization of flow and bipartite graphs
+Maximizing the network flow, bipartiteness testing, bipartite matching, and visualization of graphs with matplotlib. 
 
 
 
