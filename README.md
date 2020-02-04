@@ -12,11 +12,10 @@ Merge Sort- n*logn, Quick Sort- n *logn, Bubble Sort- npow(2)
 ### Basics for Digital Signal Processing:
 Taking DFT, FFT, IFFT, and Convolution of Signals
 
+### Network Flow Problems, Bipartite Matching:
+Maximizing the network flow, bipartiteness testing, bipartite matching, visualization of flow and bipartite graphs
 
 
-
-The future deposits for this repository will be: 
-Network Flow, Bipartite matching, Trie Structure.
 
 
 
