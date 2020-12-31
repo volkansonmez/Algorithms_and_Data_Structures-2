@@ -10,7 +10,8 @@ A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the
 Merge Sort- n*logn, Quick Sort- n *logn, Bubble Sort- npow(2)
 
 ### Basics for Digital Signal Processing:
-Taking DFT, FFT, IFFT, and Convolution of Signals
+1- Taking DFT, FFT, IFFT, and Convolution of Signals Notebook
+2- Basics of Convolution Notebook (array and matrix convolutions with FFT)
 
 ### Network Flow Problems, Bipartite Matching:
 Maximizing the network flow, bipartiteness testing, bipartite matching, and visualization of graphs with matplotlib. 
